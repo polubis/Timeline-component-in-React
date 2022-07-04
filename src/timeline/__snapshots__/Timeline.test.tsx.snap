@@ -1,0 +1,937 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Timeline /> renders correctly for different data sets 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="padding: 22px 36px 22px 36px;"
+  >
+    <div
+      class="content"
+      style="height: 488px;"
+    >
+      <div
+        class="lineXContainer"
+        style="height: 24px; transform: translate(0px, 232px); width: 2768px;"
+      >
+        <div
+          class="lineX"
+          style="height: 4px;"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(56px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(112px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(168px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(224px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(235px, -85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(224px, -170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            23/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(212px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(336px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(392px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(403px, 85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(392px, 170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            26/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(380px, 98px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(448px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(459px, -116px; height: 208px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(448px, -232px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            27/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(436px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(436px, -160px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 1
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(504px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(616px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(672px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(728px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(784px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(896px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(907px, -85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(896px, -170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            04/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(884px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(952px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1008px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1064px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1176px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1232px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1288px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1344px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1456px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1512px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1568px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(1579px, -85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1568px, -170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            16/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(1556px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1624px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1736px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1792px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(1803px, -116px; height: 208px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1792px, -232px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            20/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(1780px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(1780px, -160px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 1
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1848px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1904px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2016px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2072px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2128px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2184px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2296px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2352px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2408px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2464px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(2475px, -116px; height: 208px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2464px, -232px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            01/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(2452px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(2452px, -160px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 1
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2576px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2632px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2688px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2744px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(2755px, 85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(2744px, 170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            06/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(2732px, 98px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<Timeline /> renders correctly for different data sets 2`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="padding: 22px 36px 22px 36px;"
+  >
+    <div
+      class="content"
+      style="height: 488px;"
+    >
+      <div
+        class="lineXContainer"
+        style="height: 24px; transform: translate(0px, 232px); width: 1088px;"
+      >
+        <div
+          class="lineX"
+          style="height: 4px;"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(0px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(56px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(112px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(168px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(224px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(235px, -85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(224px, -170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            23/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(212px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(280px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(291px, 116px; height: 208px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(280px, 232px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            24/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(268px, 98px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(268px, 160px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 1
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(336px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(392px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(448px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(459px, -116px; height: 208px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(448px, -232px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            27/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(436px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(436px, -160px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 1
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(504px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(560px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(571px, 85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(560px, 170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            29/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(548px, 98px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(616px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(672px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(728px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(784px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(840px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(896px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(907px, -85px; height: 146px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(896px, -170px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            04/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(884px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            This is title with idx: 0
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(952px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1008px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(1064px);"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<Timeline /> renders correctly for different data sets 3`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="padding: 22px 36px 22px 36px;"
+  >
+    <div
+      class="content"
+      style="height: 318px;"
+    >
+      <div
+        class="lineXContainer"
+        style="height: 24px; transform: translate(0px, 0px); width: 80px;"
+      >
+        <div
+          class="lineX"
+          style="height: 4px;"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(0px);"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(56px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(67px, 147px; height: 270px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(56px, 294px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            23/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(44px, 98px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(44px, 160px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(44px, 222px); bottom: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<Timeline /> renders correctly for different data sets 4`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="padding: 22px 36px 22px 36px;"
+  >
+    <div
+      class="content"
+      style="height: 380px;"
+    >
+      <div
+        class="lineXContainer"
+        style="height: 24px; transform: translate(0px, 356px); width: 80px;"
+      >
+        <div
+          class="lineX"
+          style="height: 4px;"
+        />
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(0px);"
+        />
+        <div
+          class="lineY"
+          style="width: 2px; transform: translate(11px, -178px; height: 332px;"
+        />
+        <div
+          class="marker endMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(0px, -356px);"
+        >
+          <span
+            style="padding-left: 49px;"
+          >
+            18/05/2022
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(-12px, -98px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(-12px, -160px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(-12px, -222px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+        <div
+          class="item"
+          style="height: 50px; width: 206px; transform: translate(-12px, -284px); top: 0px;"
+        >
+          <img
+            alt="Timeline avatar"
+            src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+          />
+          <span
+            style="margin-left: 12px;"
+          >
+            TDD in React ddd
+          </span>
+        </div>
+        <div
+          class="marker midMarker"
+          style="height: 24px; width: 24px; border-width: 2px; transform: translate(56px);"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<Timeline /> renders correctly for different data sets 5`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="padding: 22px 36px 22px 36px;"
+  >
+    <div
+      class="content"
+      style="height: 24px;"
+    >
+      <div
+        class="lineXContainer"
+        style="height: 24px; transform: translate(0px, 0px); width: 0px;"
+      >
+        <div
+          class="lineX"
+          style="height: 4px;"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
